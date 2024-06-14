@@ -1,0 +1,14 @@
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\bin\Debug\net8.0\ExercicioFixacao_Matrizes.exe
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\bin\Debug\net8.0\ExercicioFixacao_Matrizes.deps.json
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\bin\Debug\net8.0\ExercicioFixacao_Matrizes.runtimeconfig.json
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\bin\Debug\net8.0\ExercicioFixacao_Matrizes.dll
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\bin\Debug\net8.0\ExercicioFixacao_Matrizes.pdb
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.AssemblyInfoInputs.cache
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.AssemblyInfo.cs
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.csproj.CoreCompileInputs.cache
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.dll
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\refint\ExercicioFixacao_Matrizes.dll
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.pdb
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ExercicioFixacao_Matrizes.genruntimeconfig.cache
+C:\Projeto C#\ExercicioFixacao_Matrizes\ExercicioFixacao_Matrizes\obj\Debug\net8.0\ref\ExercicioFixacao_Matrizes.dll
